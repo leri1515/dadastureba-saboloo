@@ -1,0 +1,3 @@
+import {ClipboardList,FileText,FlaskConical} from 'lucide-react'
+import type {MedicalRecord} from '../types'
+export default function RecordCard({record}:{record:MedicalRecord}){const Icon=record.kind==='ანალიზი'?FlaskConical:record.kind==='დანიშნულება'?FileText:ClipboardList;return <article className="surface p-5 flex gap-4"><div className="record-icon"><Icon size={22}/></div><div className="flex-1"><div className="flex flex-wrap justify-between gap-2"><h3 className="font-bold text-ink">{record.title}</h3><span className="tag">{record.kind}</span></div><p className="text-xs text-muted mt-1">{record.doctor} · {record.date}</p><p className="text-sm text-muted mt-3">{record.description}</p></div></article>}

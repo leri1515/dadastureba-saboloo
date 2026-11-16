@@ -1,0 +1,8 @@
+[
+ {"id":1,"name":"ნინო მაისურაძე","specialty":"კარდიოლოგი","experience":12,"rating":4.9,"price":80,"initials":"ნმ","color":"#d9eee9","bio":"გულისა და სისხლძარღვთა დაავადებების კონსულტაცია","days":[1,2,3,4,5]},
+ {"id":2,"name":"გიორგი კაპანაძე","specialty":"ნევროლოგი","experience":9,"rating":4.8,"price":90,"initials":"გკ","color":"#e9e6fc","bio":"ნევროლოგიური დიაგნოსტიკა და კონსულტაცია","days":[1,3,5]},
+ {"id":3,"name":"მარიამ ლომიძე","specialty":"დერმატოლოგი","experience":7,"rating":4.9,"price":70,"initials":"მლ","color":"#fdebdc","bio":"კანის ჯანმრთელობისა და პრევენციის კონსულტაცია","days":[2,3,4,5]},
+ {"id":4,"name":"დავით ბერიძე","specialty":"თერაპევტი","experience":15,"rating":5.0,"price":65,"initials":"დბ","color":"#dceafa","bio":"ზოგადი ჯანმრთელობის შეფასება და პირველადი კონსულტაცია","days":[1,2,3,4,5]},
+ {"id":5,"name":"სალომე გელაშვილი","specialty":"პედიატრი","experience":11,"rating":4.8,"price":75,"initials":"სგ","color":"#fce5ed","bio":"ბავშვთა ჯანმრთელობის კონსულტაცია","days":[1,2,4,5]},
+ {"id":6,"name":"ლუკა ჯაფარიძე","specialty":"ენდოკრინოლოგი","experience":8,"rating":4.9,"price":85,"initials":"ლჯ","color":"#e3efce","bio":"ჰორმონული სისტემისა და მეტაბოლიზმის კონსულტაცია","days":[1,3,4,5]}
+]
